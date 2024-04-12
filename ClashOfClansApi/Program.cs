@@ -1,5 +1,4 @@
 
-using ClashOfClansApi.Data;
 using Microsoft.EntityFrameworkCore;
 
 namespace ClashOfClansApi
